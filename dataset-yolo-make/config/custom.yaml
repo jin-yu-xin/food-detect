@@ -1,0 +1,8 @@
+
+
+dataset: ../food-datasets
+
+#img_size:
+#    height: 640
+
+trainset_percent: 0.8
